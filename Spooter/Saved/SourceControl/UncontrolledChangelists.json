@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.7/Zarqa-Game/Spooter/Content/Input/IMC_Default.uasset",
+				"C:/Program Files/Epic Games/UE_5.7/Zarqa-Game/Spooter/Content/Window_Camera_demo/Demo_Camera_Blueprint.uasset",
+				"C:/Program Files/Epic Games/UE_5.7/Zarqa-Game/Spooter/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Program Files/Epic Games/UE_5.7/Zarqa-Game/Spooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Program Files/Epic Games/UE_5.7/Zarqa-Game/Spooter/Content/FirstPerson/Blueprints/Window_Camera_demo/Demo_Camera_Blueprint.uasset",
+				"C:/Program Files/Epic Games/UE_5.7/Zarqa-Game/Spooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/WB/NMVPZD78RGXP59VY5XT4EE.uasset",
+				"C:/Program Files/Epic Games/UE_5.7/Zarqa-Game/Spooter/Content/Input/Actions/IA_Camera.uasset",
 				"C:/Users/Josiah/Desktop/GoshJamIt/CGT411/To-Be-Named/Spooter/Content/FirstPerson/Lvl_FirstPerson.umap",
 				"C:/Users/Josiah/Desktop/GoshJamIt/CGT411/To-Be-Named/Spooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset",
 				"C:/Users/Josiah/Desktop/GoshJamIt/CGT411/To-Be-Named/Spooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset",
