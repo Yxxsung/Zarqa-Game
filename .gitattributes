@@ -1,5 +1,1 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-
-# Example folder using LFS
-Content/Namaqualand/** filter=lfs diff=lfs merge=lfs -text
+*.uasset filter=lfs diff=lfs merge=lfs -text
